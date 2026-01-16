@@ -5,7 +5,6 @@ using System.Collections.Generic;
 
 namespace UniversityManagementSystem.Controllers
 {
-    [Route("api/[controller]")]
     [ApiController]
     public class CoursesController : ControllerBase
     {
