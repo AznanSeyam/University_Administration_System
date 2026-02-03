@@ -1,7 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using UniversityManagementSystem.Data;
 using UniversityManagementSystem.Models;
-using System.Collections.Generic;
 
 namespace UniversityManagementSystem.Controllers
 {
