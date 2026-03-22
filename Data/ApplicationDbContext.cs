@@ -1,5 +1,4 @@
 using Microsoft.EntityFrameworkCore;
-using UniversityManagementSystem.Models;
 
 namespace UniversityManagementSystem.Data
 {
