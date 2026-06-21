@@ -2,7 +2,6 @@ using System.Collections.Generic;
 using System.Linq;
 using UniversityManagementSystem.Data;
 using UniversityManagementSystem.Models;
-
 namespace UniversityManagementSystem.Services
 {
     public class EnrollmentService : IEnrollmentService
