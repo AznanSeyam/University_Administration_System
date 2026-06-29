@@ -1,5 +1,4 @@
 using Microsoft.EntityFrameworkCore;
-
 namespace UniversityManagementSystem.Data
 {
     public class ApplicationDbContext : DbContext
