@@ -12,7 +12,6 @@ namespace UniversityManagementSystem.Services
         {
             _context = context;
         }
-
         public IEnumerable<Enrollment> GetAllEnrollments()
         {
             return _context.Enrollments.ToList();
